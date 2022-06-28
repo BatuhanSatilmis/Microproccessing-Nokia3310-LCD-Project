@@ -1,0 +1,91 @@
+[DEVICE]
+Name=P16F628A
+Clock=4000000
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=MyProject.c
+[USE_EEPROM]
+Value=0
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=2000
+[EEPROM_DEFINITION]
+Value=
+[FILES]
+File0=MyProject.c
+Count=1
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+File0=MyProject.c
+File1=.\D:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Packages\Nokia 3310-PCD8544 LCD\Uses\3310.c
+Count=2
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Path0=D:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Packages\Nokia 3310-PCD8544 LCD\Uses\
+Count=1
+[HEADER_PATH]
+Path0=D:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Packages\Nokia 3310-PCD8544 LCD\Uses\
+Count=1
+[HEADERS]
+Count=0
+[PLDS]
+Count=0
+[Useses]
+File0=Nokia 3310-PCD8544
+File1=Lcd
+File2=Lcd_Constants
+File3=Glcd
+File4=Keypad4x4
+File5=Glcd_Fonts
+File6=EPSON_S1D13700
+File7=Button
+File8=Compact_Flash
+File9=Conversions
+File10=C_String
+File11=C_Math
+File12=C_Stdlib
+File13=EEPROM
+File14=C_Type
+File15=One_Wire
+File16=MemManager
+File17=Manchester
+File18=PWM
+File19=RS485
+File20=UART
+File21=PS2
+File22=Software_UART
+File23=Software_SPI
+File24=Software_I2C
+File25=Sprintl
+File26=Sprinti
+File27=T6963C
+File28=Time
+File29=Trigonometry
+Count=30
+[EXPANDED_NODES]
+Count=0
+[LIB_EXPANDED_NODES]
+0=mikroE Libraries
+312=Third Party Libraries
+313=Nokia 3310-PCD8544 LCD
+Count=3
+[PROGRAMMER_TYPE]
+Value=mikroE mikroProg
+[CODEGRIP_OPTIONS]
+CODEGRIP_SPEED=0
+CODEGRIP_VERIFY_AFTER=0
+CODEGRIP_SWBP_ENABLED=0
+CODEGRIP_PROGRAMMING_TYPE=
